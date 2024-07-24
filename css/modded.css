@@ -1,0 +1,18 @@
+.flavor-logo{
+    width: 110px;
+}
+.far{
+    color: #4e1c63;
+}
+.about-icons{
+    width: 45px;
+    padding-bottom: 10px;
+}
+.what-we-do-img{
+    width: 600px;
+    margin: auto;
+    display: block;
+}
+hr{
+    border-top: 1px solid black;
+}
